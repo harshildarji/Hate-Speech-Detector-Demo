@@ -10,7 +10,7 @@ Flask-Bootstrap==3.3.7.1
 Flask-Mail==0.9.1
 Flask-WTF==0.14.2
 gast==0.3.1
-get==2019.4.13
+#get==2019.4.13
 google-pasta==0.1.7
 grpcio==1.23.0
 h5py==2.10.0
@@ -29,7 +29,7 @@ oauthlib==3.1.0
 #pandas==0.25.1
 pandas
 #pkg-resources==0.0.0
-post==2019.4.13
+#post==2019.4.13
 protobuf==3.9.1
 public==2019.4.13
 PySocks==1.7.1
@@ -38,7 +38,7 @@ python-dotenv==0.10.3
 pytz==2019.2
 PyYAML==5.1.2
 query-string==2019.4.13
-request==2019.4.13
+#request==2019.4.13
 requests==2.22.0
 requests-oauthlib==1.2.0
 scipy
